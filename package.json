@@ -1,0 +1,22 @@
+{
+  "name": "hostelmanagement",
+  "version": "1.0.0",
+  "description": "its about hostelmanagement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hostel",
+    "warden",
+    "rooms",
+    "mangament"
+  ],
+  "author": "vichithra vilangar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
